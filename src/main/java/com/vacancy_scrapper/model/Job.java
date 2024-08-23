@@ -10,4 +10,6 @@ public class Job {
     private final String company;
     private final String location;
     private final String link;
+    private final String datePosted;
+    private final String description;
 }
