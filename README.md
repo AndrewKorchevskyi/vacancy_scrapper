@@ -2,6 +2,8 @@
 
 Very simple tool designed for me to get list of latest vacancies from https://jobs.dou.ua/. Don't take it seriously, was just having fun :)
 
+![image](https://github.com/user-attachments/assets/7e694b0b-1fab-45b9-8654-c351abcc2c67)
+
 ## Configuration
 This URL should be configured in config.properties corresponding your vacancies query, this one is for QA Automation vacancies with 5+ years of experience, it's set by default (for me, hehe):
 ```
